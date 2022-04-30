@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "829239003499",
+    "project_id": "oasis-e2420",
+    "storage_bucket": "oasis-e2420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829239003499:android:faf895e3a804361aa2242e",
+        "android_client_info": {
+          "package_name": "com.example.oasis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829239003499-sn8pjtphgfs8evgtq09pq4pejcplcvp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oasis",
+            "certificate_hash": "e9589a8f500e521165f831bcbf421d1d6ff7a4b4"
+          }
+        },
+        {
+          "client_id": "829239003499-g9cssjbrapko0fveupofvsvd0dc21h2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJRPLwPrceVBZa3kYwtm8yEZEo5Q5R60A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829239003499-g9cssjbrapko0fveupofvsvd0dc21h2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

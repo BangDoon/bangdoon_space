@@ -1,0 +1,6 @@
+com/zerock/moijob/interfaces/RecruitControllerTests.java
+ com.zerock.moijob.interfaces.RecruitControllerTests
+com/zerock/moijob/application/RecruitServiceTests.java
+ com.zerock.moijob.application.RecruitServiceTests
+com/zerock/moijob/MoijobApplicationTests.java
+ com.zerock.moijob.MoijobApplicationTests
